@@ -9,7 +9,7 @@ Enviorment:
 
 ***
 
-##  XAMPP Setup
+##  ⌨️ XAMPP Setup
 
 if you have not alredy donlowade it, follow these steps:
 
