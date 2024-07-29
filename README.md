@@ -52,3 +52,32 @@ To Test it:
 
   <img src="https://github.com/user-attachments/assets/0ea6bfa1-bfcd-484f-8783-0ed49d82cf01" width="430" height="280">
 
+
+***
+
+## <img src="https://github.com/user-attachments/assets/c8739dce-5f53-4660-93b3-3ebc8d686cd5" width="20" height="20"> Database Setup
+To see you Database 
+
+1. Go to your broswer & Open ``phpMyAdmin ``:
+   - by navigating to ``http://localhost/phpmyadmin``.
+  <img src="https://github.com/user-attachments/assets/14946b21-b986-439a-aa33-a3571d91bc92" width="430" height="280">
+
+2. Create a new Database named ``robot_control``:
+     > Databases  ->  Create Database  ->  Create
+
+3. Create a table named ``controls``:
+   - Table will have 2 columns for the ID & Directions.
+
+
+***
+
+## Project Directory and Files
+I used VS Code, created a project with 3 files and commited them to this repo (you can find the codes for each):
+
+
+*** 
+
+## How to Run
+Start Apache and MySQL from the XAMPP Control Panel
+Open your browser and navigate to http://localhost/RobotControlPanel/index.html
+Use the control panel to send commands to the robot. A pop-up window will display success or error messages
