@@ -40,10 +40,8 @@ To Test it:
     > Actions  ->  Start Button
     - it should be started on port ``80.443``.
 
-  - If you encouterd an Error:
-    - Close the window.
-    - _Right Click_ on XAMPP Icon, Then choose _Quit_.
-    - Then re-do the above steps.
+  > [!NOTE]
+  > If you encouterd an Error: Close the window  ->  _Right Click_ on XAMPP Icon  ->   _Quit_  ->  re-do the above steps.
 
 8. Start _MySQL_:
 To Test it:
