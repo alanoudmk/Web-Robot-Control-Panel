@@ -9,7 +9,7 @@ Enviorment:
 
 ***
 
-##  ⌨️ XAMPP Setup
+## <img src="https://github.com/user-attachments/assets/7048b800-1b5b-463d-8adf-ef861e6d376c" width="20" height="20"> XAMPP Setup
 
 if you have not alredy donlowade it, follow these steps:
 
