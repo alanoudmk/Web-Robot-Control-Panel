@@ -3,8 +3,8 @@
 This project is a web-based control panel for a robot, allowing users to send commands to the robot.
 
 Enviorment:
-- Visual Studio Code (HTML)
-- XAMPP
+- Visual Studio Code
+- XAMPP v3.3.0
 
 
 ***
